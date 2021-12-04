@@ -1,0 +1,12 @@
+{
+    "name": "modestas9k/codewars",
+    "authors": [
+        {
+            "name": "Modestas Skirius",
+            "email": "modestas.skirius@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
